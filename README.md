@@ -12,6 +12,18 @@
 
 - Cada título inferior ao título h1 deve introduzir 3 parágrafos (p) (2,0)
 
+- Listas ordenadas (ol) e listas não ordenadas (ul) (2,0)
+
+- Tags de resumo (summary) e detalhamento (details) (2,0)
+
+- Separação do conteúdo usando divisões (div), seções (section) e linhas horizontais (hr) (2,0)
+
+- Configuração do título da página (2,0)
+
+- Inserção de imagens (2,0)
+
+- Exibição de um ou mais caracteres especiais usando entidades HTML (2,0)
+
 TOTAL: 
 
 Comentário: 
